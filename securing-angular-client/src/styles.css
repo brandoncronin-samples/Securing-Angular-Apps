@@ -1,0 +1,21 @@
+
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+body {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.globo-logo {
+  width: 200px;
+  margin-top: 10px;
+  margin-left: -20px;
+}
+
+.navbar-fill {
+  flex: 1 1 auto;
+}
+
+.list-action {
+  width: 40px;
+  text-align: center;
+}
